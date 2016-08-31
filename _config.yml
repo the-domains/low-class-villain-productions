@@ -19,5 +19,8 @@ navigation:
   - name: FB
     url: 'https://www.facebook.com/lowclassvillain/'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/lwclsvlnprod/'
+    type: external
 title: Oil+Digital Paintings
 description: Alex Charlebois / Artist
